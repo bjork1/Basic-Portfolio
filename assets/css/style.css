@@ -1,6 +1,13 @@
-.container {
-    background-color: goldenrod;
-    height: 300px;
-    width: 500px;
-}
+h1 {
+    color: blue;
+    background-color: lightcoral;
+    width: 50%;
+    height: 150px;
+    position: relative;
+    left: 25%;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    font-size: 72px;
+};
 
